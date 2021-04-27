@@ -1,0 +1,2497 @@
+{
+  "me": {
+    "_class": "user",
+    "encrypted_id": "x01WoHO9JA8HJcGU6nFKT8fwA==",
+    "name": "Austin",
+    "is_authenticated": true,
+    "learning_languages": [],
+    "country": "US",
+    "has_made_paid_purchase": true,
+    "created": "2018-03-22T16:43:33Z",
+    "encrypted_affiliate_email": "bdec62b130ff6556b3ef958d88211b237f07e873",
+    "surname": "Beaudreau",
+    "image_50x50": "https://img-a.udemycdn.com/user/50x50/anonymous_3.png?QvzaW33K2HhwhblgQtxiv0dWN8PxVVvDoHzc-ivOJm4A43VoDemD7tDXVuRdbRpEYyrjz1NCCo5glwJFIIg1I06bsLIpGuMI3HIIUOnrxe0YAUOKjXNipNI",
+    "locale": "en_US",
+    "id": 45951812,
+    "job_title": "",
+    "initials": "AB",
+    "language": "en",
+    "email": "austinbeaudreau@gmail.com",
+    "organization": null,
+    "display_name": "Austin Beaudreau",
+    "time_zone": "America/Chicago",
+    "qualaroo_survey_ids": [],
+    "encrypted_affiliate_uid": "479bd2f8b103dab7d46c8d806de5ed696640f6db",
+    "settings": {
+      "disableAllEmails": null
+    },
+    "number_of_courses_purchased": 5,
+    "image_100x100": "https://img-a.udemycdn.com/user/100x100/anonymous_3.png?I7DtHjJtpSuD3FkIFtW46IKQI8fFpaxRJUpiIUbe7RGvS7ayYtB44Xie2DtDFItKqkBLKbxS8dO1eJC20-sMfiRaAoeEWEm52ekjucNgw-_MTalA2hUf925A6w",
+    "title": "Austin Beaudreau"
+  },
+  "Config": {
+    "app_name": "course:course_taking",
+    "env": "PROD",
+    "url": {
+      "to_root": "https://www.udemy.com/",
+      "to_app": "https://www.udemy.com/",
+      "to_images": "https://www.udemy.com/staticx/udemy/images/",
+      "to_js": "https://www.udemy.com/staticx/udemy/js/",
+      "to_page_events": "https://page-events-ustats.udemy.com/"
+    },
+    "js_bundle": "modern",
+    "supported_languages": [
+      {
+        "name": "English",
+        "locale": "en_US",
+        "lang": "en"
+      },
+      {
+        "name": "Deutsch",
+        "locale": "de_DE",
+        "lang": "de"
+      },
+      {
+        "name": "Espa\u00f1ol",
+        "locale": "es_ES",
+        "lang": "es"
+      },
+      {
+        "name": "Fran\u00e7ais",
+        "locale": "fr_FR",
+        "lang": "fr"
+      },
+      {
+        "name": "Bahasa Indonesia",
+        "locale": "id_ID",
+        "lang": "id"
+      },
+      {
+        "name": "Italiano",
+        "locale": "it_IT",
+        "lang": "it"
+      },
+      {
+        "name": "\u65e5\u672c\u8a9e",
+        "locale": "ja_JP",
+        "lang": "ja"
+      },
+      {
+        "name": "\ud55c\uad6d\uc5b4",
+        "locale": "ko_KR",
+        "lang": "ko"
+      },
+      {
+        "name": "Nederlands",
+        "locale": "nl_NL",
+        "lang": "nl"
+      },
+      {
+        "name": "Polski",
+        "locale": "pl_PL",
+        "lang": "pl"
+      },
+      {
+        "name": "Portugu\u00eas",
+        "locale": "pt_BR",
+        "lang": "pt"
+      },
+      {
+        "name": "Rom\u00e2n\u0103",
+        "locale": "ro_RO",
+        "lang": "ro"
+      },
+      {
+        "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "locale": "ru_RU",
+        "lang": "ru"
+      },
+      {
+        "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+        "locale": "th_TH",
+        "lang": "th"
+      },
+      {
+        "name": "T\u00fcrk\u00e7e",
+        "locale": "tr_TR",
+        "lang": "tr"
+      },
+      {
+        "name": "\u4e2d\u6587(\u7b80\u4f53)",
+        "locale": "zh_CN",
+        "lang": "zh-cn"
+      },
+      {
+        "name": "\u4e2d\u6587(\u7e41\u9ad4)",
+        "locale": "zh_TW",
+        "lang": "zh-tw"
+      }
+    ],
+    "graphql_federation_endpoint": "https://www.udemy.com/graphql/",
+    "marketplace_country": {
+      "currency": "usd",
+      "iso_code": "USA",
+      "_class": "country",
+      "title": "United States",
+      "id": "US"
+    },
+    "brand": {
+      "is_user_profiles_public": true,
+      "_class": "brand",
+      "identifier": "udemy",
+      "is_share_to_workplace_enabled": false,
+      "is_teaching_enabled": true,
+      "is_social_sharing_enabled": true,
+      "is_import_courses_enabled": true,
+      "link_bar_nav_list_id": "ud-link-bar",
+      "has_organization": false,
+      "is_sso_enabled": false,
+      "is_feed_commenting_enabled": true,
+      "is_external_sources_enabled": true,
+      "is_profile_functions_enabled": true,
+      "product_logo_light": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg",
+      "product_name": "Udemy",
+      "organization": false,
+      "is_add_reviews_enabled": true,
+      "logo_url_2x": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+      "is_government": false,
+      "is_discussions_enabled": true,
+      "product_logo": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+      "is_autoshow_cc_enabled": true,
+      "is_messaging_enabled": true,
+      "is_team": false,
+      "is_third_party_marketing_enabled": true,
+      "product_logo_aspect_ratio": 3.4491017964071857,
+      "is_share_on_slack_enabled": false,
+      "title": "Udemy"
+    },
+    "features": {
+      "home": {
+        "my_courses": {
+          "privacy": true,
+          "revenue": true,
+          "free_label": true
+        },
+        "signup_cta": true
+      },
+      "notice": {
+        "ufb_smart_bar": false,
+        "instructor_bar": false,
+        "smart_bar": false
+      },
+      "wishlist": true,
+      "shopping_cart": true,
+      "bundle": {
+        "instructor_bio": {
+          "social_links": true
+        }
+      },
+      "discount": {
+        "change_alerts": true
+      },
+      "course_review": {
+        "leave_feedback": true,
+        "clp_review_search": true
+      },
+      "course_landing_page": {
+        "deal_badge": true,
+        "money_back_guarantee": true,
+        "incentives": {
+          "access_tv": true,
+          "lifetime_access": true
+        },
+        "instructor_bio": {
+          "image": true,
+          "social_links": true,
+          "stats": true
+        }
+      },
+      "hello_bar": {
+        "pricing": true,
+        "instructor": false,
+        "terms": true
+      },
+      "zendesk_chat": false,
+      "social_share": {
+        "email": true
+      },
+      "ufb_notices_footer": {
+        "top_com": true
+      },
+      "course": {
+        "announcements": {
+          "comments": {
+            "view": true
+          }
+        },
+        "discussions": {
+          "view": true
+        },
+        "students": {
+          "unenroll": false
+        },
+        "refundable": true
+      },
+      "collect_performance_rum": true,
+      "ufb_notices": true,
+      "notifications": true,
+      "referral_program_enabled": false,
+      "intercom_chat": true,
+      "report_abuse": true,
+      "invite": {
+        "alert": true
+      },
+      "course_badge": true,
+      "logged_in_home": {
+        "ufb_ad": false,
+        "linkbar_level_2": true
+      },
+      "organization": {
+        "manage_satisfaction": {
+          "satisfaction": false
+        },
+        "is_bulk_actions_enabled": true,
+        "manage_insights": {
+          "path_insights_v2": false
+        },
+        "auth": {
+          "scim_integration_component_enabled": true,
+          "scim_api_enabled": false
+        },
+        "course_taking": {
+          "student_assignment_submissions_enabled": true
+        },
+        "assignment_improvement_all_users": true,
+        "learning_path": {
+          "copy_learning_path_item": false,
+          "pro_path": false,
+          "enabled": false
+        },
+        "modular_labs": {
+          "enabled": false
+        },
+        "enterprise": {
+          "onboarding_enabled": true
+        },
+        "aws_labs_enabled": false,
+        "measure_competence": {
+          "enabled": false
+        },
+        "user_account_separation_enabled": false
+      },
+      "one_trust": true,
+      "reviews": {
+        "show_user_avatar": true
+      }
+    },
+    "price_country": {
+      "currency_decimal_places": 2,
+      "_class": "country",
+      "currency_symbol": "$",
+      "currency_charm_amount": -0.01,
+      "currency": "usd",
+      "usd_currency_formatter": {
+        "decimal": ".",
+        "scale": 2,
+        "currency": "usd",
+        "pattern": "!#,##0.00",
+        "symbol": "$",
+        "locale": "en_US",
+        "group": ","
+      },
+      "currency_formatter": {
+        "decimal": ".",
+        "scale": 2,
+        "currency": "usd",
+        "pattern": "!#,##0.00",
+        "symbol": "$",
+        "locale": "en_US",
+        "group": ","
+      },
+      "id": "US"
+    },
+    "third_party": {
+      "uft_stripe_publishable_key": "pk_live_dCyHJcZsk8NaNwx1PiRSpqqq",
+      "google_analytics_id_for_ufb_only": "UA-12366301-47",
+      "facebook_app_id": "313137469260",
+      "storage_static_asset_base_url": "https://s.udemycdn.com/",
+      "user_stripe_publishable_key": "pk_live_xOuIgZiF7hb3wSwFSAOz3dRm",
+      "raven_dsn": "https://369c830fbf534485a068ab919d71b80d@sentry.io/38617",
+      "google_analytics_id_for_course_taking": "UA-12366301-45",
+      "intercom": {
+        "app_id": "sehj53dd"
+      },
+      "sift_account": "78b4b13f0a",
+      "pusher": {
+        "coding_exercise_event": "coding-exercise-evaluated",
+        "key": "825910825f8199bd5b21"
+      },
+      "stripe_publishable_key": "pk_live_xOuIgZiF7hb3wSwFSAOz3dRm",
+      "zendesk": {
+        "refund_form_id": 406368
+      },
+      "s3": {
+        "asset": {
+          "key": "AKIAIOTLFW3HMG563JEA",
+          "bucket_url": "https://udemy-web-upload-transitional.s3.amazonaws.com"
+        },
+        "image_asset": {
+          "key": "AKIAIOTLFW3HMG563JEA",
+          "bucket_url": "https://udemy-image-web-upload.s3.amazonaws.com"
+        }
+      },
+      "paypal": {
+        "returnurl": "https://www.udemy.com/user/paypal-login-return",
+        "authend": "live",
+        "appid": "ASRJrkbBfTwvxWNTn-QRakeimIbsjmBuK5hWj4zq3QJL46CKIYNb-RiKjrTSe-2iZ-EFrCCuXGZTxHjY"
+      },
+      "google_analytics_id": "UA-12366301-1",
+      "filestack": {
+        "key": "A0EHlHYkEQbCTpDvxEwAYz"
+      },
+      "branch_metrics": {
+        "android_ufb_download_url": "http://ude.my/android-ufb",
+        "android_download_url": "http://ude.my/android",
+        "ios_ufb_download_url": "http://ude.my/ios-ufb",
+        "ios_download_url": "http://ude.my/ios"
+      },
+      "google_tag_manager_id": "GTM-7BF3X"
+    },
+    "version": "9ca7c2d00a00188b7ab5cb6395e8b408a9fb01de"
+  },
+  "site_stats": {
+    "default": {
+      "num_students": 35,
+      "num_topics": 2000,
+      "num_instructors": 57000,
+      "num_courses": 130000
+    },
+    "organizations": {
+      "num_instructors": 1500,
+      "num_courses": 5500
+    }
+  },
+  "visiting": {
+    "visitor_uuid": "3f90757c055347c3835e4cdffc47ae0e",
+    "first_visit_time": "2021-02-11T03:58:33.554Z",
+    "is_first_time_visitor": false
+  },
+  "userAgnosticTrackingParams": {
+    "page_key": "course_taking",
+    "collector_url": "https://www.udemy.com/api-2.0/ecl"
+  },
+  "userSpecificTrackingParams": {
+    "tracking_enabled": true,
+    "spaTrackingActive": true
+  },
+  "request": {
+    "isTablet": false,
+    "locale": "en_US",
+    "extraIntercomData": {
+      "hide_default_launcher": true
+    },
+    "termsBarUrls": "",
+    "termsBarType": "",
+    "navigation_locale": "en_US",
+    "finalRebrandVariant": "0",
+    "isPC": true,
+    "third_party_location": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/lecture/6128236",
+    "language_simple_english_title": "English",
+    "isMobile": false,
+    "serverTimestamp": "2021-04-25T21:27:40.225422-05:00",
+    "language": "en",
+    "rebrandHeadlineVariant": null,
+    "clientTimestamp": "2021-04-26T02:27:39.976Z"
+  },
+  "experiment": {
+    "ifq": {
+      "3042": {
+        "variant": 7616,
+        "values": {
+          "instructor_fqs_enabled": true
+        },
+        "state": "recorded"
+      }
+    },
+    "sfq": {
+      "3156": {
+        "variant": 7870,
+        "values": {
+          "student_fqs_enabled": true
+        },
+        "state": "recorded"
+      }
+    },
+    "clp": {
+      "3186": {
+        "variant": 7960,
+        "values": {
+          "trigger_exp_platform_enabled": true
+        },
+        "state": "recorded"
+      }
+    },
+    "srp": {
+      "3058": {
+        "variant": 7654,
+        "values": {
+          "experimentation_platform_aa_test": true
+        },
+        "state": "recorded"
+      },
+      "3214": {
+        "variant": 8024,
+        "values": {
+          "first_phase": false
+        },
+        "state": "recorded"
+      },
+      "3282": {
+        "variant": 8182,
+        "values": {},
+        "state": "recorded"
+      },
+      "3284": {
+        "variant": 8186,
+        "values": {},
+        "state": "recorded"
+      }
+    },
+    "labs": {
+      "2804": {
+        "variant": 7074,
+        "values": {},
+        "state": "recorded"
+      }
+    },
+    "tgt": {
+      "3154": {
+        "variant": 7864,
+        "values": {
+          "Stackable-Promo-Test": "A"
+        },
+        "state": "recorded"
+      }
+    },
+    "sw": {
+      "2284": {
+        "variant": 5774,
+        "values": {
+          "price_engine_variant": 1,
+          "update_list_price": true
+        },
+        "state": "recorded"
+      },
+      "2598": {
+        "variant": 6568,
+        "values": {
+          "nearest_99_adjustment": true
+        },
+        "state": "recorded"
+      },
+      "3256": {
+        "variant": 8122,
+        "values": {
+          "show_onboarding_prompts": false
+        },
+        "state": "recorded"
+      },
+      "3260": {
+        "variant": 8128,
+        "values": {
+          "show_new_language_selector": false
+        },
+        "state": "recorded"
+      },
+      "3270": {
+        "variant": 8152,
+        "values": {
+          "fullstory_enabled": false
+        },
+        "state": "recorded"
+      },
+      "3274": {
+        "variant": 8168,
+        "values": {},
+        "state": "recorded"
+      },
+      "3276": {
+        "variant": 8170,
+        "values": {},
+        "state": "recorded"
+      }
+    },
+    "brlohp": {
+      "3104": {
+        "variant": 7754,
+        "values": {
+          "showUFBBillboard": true,
+          "UFBBillboardRefParam": "lohp_contact_sales",
+          "UFBBillboardButtonText": "Contact Sales"
+        },
+        "state": "recorded"
+      }
+    },
+    "idms": {
+      "3182": {
+        "variant": 8134,
+        "values": {
+          "idms_enabled": true
+        },
+        "state": "recorded"
+      }
+    },
+    "ctp": {
+      "3224": {
+        "variant": 8052,
+        "values": {
+          "fast_feedback_course_taking_variant": "after_lecture"
+        },
+        "state": "recorded"
+      }
+    },
+    "clpp": {
+      "3162": {
+        "variant": 7884,
+        "values": {},
+        "state": "recorded"
+      },
+      "3164": {
+        "variant": 7892,
+        "values": {},
+        "state": "recorded"
+      },
+      "3286": {
+        "variant": 8192,
+        "values": {},
+        "state": "recorded"
+      },
+      "3288": {
+        "variant": 8194,
+        "values": {},
+        "state": "recorded"
+      }
+    },
+    "fe": {
+      "3262": {
+        "variant": 8138,
+        "values": {
+          "trigger_exp_platform_enabled": true
+        },
+        "state": "recorded"
+      },
+      "3278": {
+        "variant": 8174,
+        "values": {},
+        "state": "recorded"
+      },
+      "3280": {
+        "variant": 8180,
+        "values": {},
+        "state": "recorded"
+      }
+    },
+    "ecufbc": {
+      "2953": {
+        "variant": 7413,
+        "values": {
+          "ufb_course_differentiation": true
+        },
+        "state": "recorded"
+      }
+    },
+    "disc": {
+      "3258": {
+        "variant": 8124,
+        "values": {
+          "use_reco_service": false
+        },
+        "state": "recorded"
+      }
+    },
+    "pay": {
+      "3134": {
+        "variant": 7814,
+        "values": {
+          "jpm_payout_method_enabled": true
+        },
+        "state": "recorded"
+      }
+    }
+  },
+  "performance": {
+    "_trackedResources": [],
+    "_eventNamePrefix": "UD-",
+    "isPageCached": false
+  },
+  "browse": {
+    "navigation_categories": [
+      {
+        "absolute_url": "/courses/development/",
+        "icon_name": "development",
+        "id": 288,
+        "children": [
+          {
+            "absolute_url": "/courses/development/web-development/",
+            "icon_name": "web-development",
+            "id": 8,
+            "children": null,
+            "title": "Web Development",
+            "title_cleaned": "web-development",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/data-science/",
+            "icon_name": "analytics-and-automation",
+            "id": 558,
+            "children": null,
+            "title": "Data Science",
+            "title_cleaned": "data-science",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/mobile-apps/",
+            "icon_name": "mobile-apps",
+            "id": 10,
+            "children": null,
+            "title": "Mobile Development",
+            "title_cleaned": "mobile-apps",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/programming-languages/",
+            "icon_name": "programming-languages",
+            "id": 12,
+            "children": null,
+            "title": "Programming Languages",
+            "title_cleaned": "programming-languages",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/game-development/",
+            "icon_name": "game-development",
+            "id": 14,
+            "children": null,
+            "title": "Game Development",
+            "title_cleaned": "game-development",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/databases/",
+            "icon_name": "databases",
+            "id": 16,
+            "children": null,
+            "title": "Database Design & Development",
+            "title_cleaned": "databases",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/software-testing/",
+            "icon_name": "software-testing",
+            "id": 18,
+            "children": null,
+            "title": "Software Testing",
+            "title_cleaned": "software-testing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/software-engineering/",
+            "icon_name": "software-engineering",
+            "id": 20,
+            "children": null,
+            "title": "Software Engineering",
+            "title_cleaned": "software-engineering",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/development-tools/",
+            "icon_name": "development-tools",
+            "id": 362,
+            "children": null,
+            "title": "Development Tools",
+            "title_cleaned": "development-tools",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/development/no-code-development/",
+            "icon_name": "line-star",
+            "id": 575,
+            "children": null,
+            "title": "No-Code Development",
+            "title_cleaned": "no-code-development",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "development",
+        "title": "Development"
+      },
+      {
+        "absolute_url": "/courses/business/",
+        "icon_name": "business",
+        "id": 268,
+        "children": [
+          {
+            "absolute_url": "/courses/business/entrepreneurship/",
+            "icon_name": "entrepreneurship",
+            "id": 26,
+            "children": null,
+            "title": "Entrepreneurship",
+            "title_cleaned": "entrepreneurship",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/communications/",
+            "icon_name": "communications",
+            "id": 28,
+            "children": null,
+            "title": "Communications",
+            "title_cleaned": "communications",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/management/",
+            "icon_name": "management",
+            "id": 30,
+            "children": null,
+            "title": "Management",
+            "title_cleaned": "management",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/sales/",
+            "icon_name": "sales",
+            "id": 32,
+            "children": null,
+            "title": "Sales",
+            "title_cleaned": "sales",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/strategy/",
+            "icon_name": "strategy",
+            "id": 34,
+            "children": null,
+            "title": "Business Strategy",
+            "title_cleaned": "strategy",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/operations/",
+            "icon_name": "operations",
+            "id": 36,
+            "children": null,
+            "title": "Operations",
+            "title_cleaned": "operations",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/project-management/",
+            "icon_name": "project-management",
+            "id": 38,
+            "children": null,
+            "title": "Project Management",
+            "title_cleaned": "project-management",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/business-law/",
+            "icon_name": "business-law",
+            "id": 40,
+            "children": null,
+            "title": "Business Law",
+            "title_cleaned": "business-law",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/analytics-and-intelligence/",
+            "icon_name": "data-and-analytics",
+            "id": 44,
+            "children": null,
+            "title": "Business Analytics & Intelligence",
+            "title_cleaned": "analytics-and-intelligence",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/human-resources/",
+            "icon_name": "human-resources",
+            "id": 48,
+            "children": null,
+            "title": "Human Resources",
+            "title_cleaned": "human-resources",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/industry/",
+            "icon_name": "industry",
+            "id": 50,
+            "children": null,
+            "title": "Industry",
+            "title_cleaned": "industry",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/e-commerce/",
+            "icon_name": "e-commerce",
+            "id": 354,
+            "children": null,
+            "title": "E-Commerce",
+            "title_cleaned": "e-commerce",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/media/",
+            "icon_name": "media",
+            "id": 52,
+            "children": null,
+            "title": "Media",
+            "title_cleaned": "media",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/real-estate/",
+            "icon_name": "real-estate",
+            "id": 58,
+            "children": null,
+            "title": "Real Estate",
+            "title_cleaned": "real-estate",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/business/other-business/",
+            "icon_name": "line-star",
+            "id": 60,
+            "children": null,
+            "title": "Other Business",
+            "title_cleaned": "other-business",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "business",
+        "title": "Business"
+      },
+      {
+        "absolute_url": "/courses/finance-and-accounting/",
+        "icon_name": "finance",
+        "id": 328,
+        "children": [
+          {
+            "absolute_url": "/courses/finance-and-accounting/accounting-bookkeeping/",
+            "icon_name": "sales",
+            "id": 530,
+            "children": null,
+            "title": "Accounting & Bookkeeping",
+            "title_cleaned": "accounting-bookkeeping",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/compliance/",
+            "icon_name": "it-certification",
+            "id": 532,
+            "children": null,
+            "title": "Compliance",
+            "title_cleaned": "compliance",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/cryptocurrency-and-blockchain/",
+            "icon_name": "cryptocurrency-and-blockchain",
+            "id": 534,
+            "children": null,
+            "title": "Cryptocurrency & Blockchain",
+            "title_cleaned": "cryptocurrency-and-blockchain",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/economics/",
+            "icon_name": "productivity",
+            "id": 536,
+            "children": null,
+            "title": "Economics",
+            "title_cleaned": "economics",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/finance-management/",
+            "icon_name": "personal-finance",
+            "id": 540,
+            "children": null,
+            "title": "Finance",
+            "title_cleaned": "finance-management",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/finance-certification-and-exam-prep/",
+            "icon_name": "test-prep",
+            "id": 542,
+            "children": null,
+            "title": "Finance Cert & Exam Prep",
+            "title_cleaned": "finance-certification-and-exam-prep",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/financial-modeling-and-analysis/",
+            "icon_name": "analytics-and-automation",
+            "id": 544,
+            "children": null,
+            "title": "Financial Modeling & Analysis",
+            "title_cleaned": "financial-modeling-and-analysis",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/investing-and-trading/",
+            "icon_name": "investing-and-trading",
+            "id": 546,
+            "children": null,
+            "title": "Investing & Trading",
+            "title_cleaned": "investing-and-trading",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/money-management-tools/",
+            "icon_name": "money-management-tools",
+            "id": 548,
+            "children": null,
+            "title": "Money Management Tools",
+            "title_cleaned": "money-management-tools",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/taxes/",
+            "icon_name": "office-productivity",
+            "id": 550,
+            "children": null,
+            "title": "Taxes",
+            "title_cleaned": "taxes",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/finance-and-accounting/other-finance-and-accounting/",
+            "icon_name": "finance",
+            "id": 552,
+            "children": null,
+            "title": "Other Finance & Accounting",
+            "title_cleaned": "other-finance-and-accounting",
+            "type": "subcategory"
+          }
+        ],
+        "title": "Finance & Accounting",
+        "title_cleaned": "finance-and-accounting",
+        "type": "category"
+      },
+      {
+        "absolute_url": "/courses/it-and-software/",
+        "icon_name": "it-and-software",
+        "id": 294,
+        "children": [
+          {
+            "absolute_url": "/courses/it-and-software/it-certification/",
+            "icon_name": "it-certification",
+            "id": 132,
+            "children": null,
+            "title": "IT Certification",
+            "title_cleaned": "it-certification",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/it-and-software/network-and-security/",
+            "icon_name": "network-and-security",
+            "id": 134,
+            "children": null,
+            "title": "Network & Security",
+            "title_cleaned": "network-and-security",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/it-and-software/hardware/",
+            "icon_name": "hardware",
+            "id": 136,
+            "children": null,
+            "title": "Hardware",
+            "title_cleaned": "hardware",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/it-and-software/operating-systems/",
+            "icon_name": "operating-systems",
+            "id": 138,
+            "children": null,
+            "title": "Operating Systems",
+            "title_cleaned": "operating-systems",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/it-and-software/other-it-and-software/",
+            "icon_name": "line-star",
+            "id": 140,
+            "children": null,
+            "title": "Other IT & Software",
+            "title_cleaned": "other-it-and-software",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "it-and-software",
+        "title": "IT & Software"
+      },
+      {
+        "absolute_url": "/courses/office-productivity/",
+        "icon_name": "office-productivity",
+        "id": 292,
+        "children": [
+          {
+            "absolute_url": "/courses/office-productivity/microsoft/",
+            "icon_name": "microsoft",
+            "id": 96,
+            "children": null,
+            "title": "Microsoft",
+            "title_cleaned": "microsoft",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/office-productivity/apple/",
+            "icon_name": "apple",
+            "id": 98,
+            "children": null,
+            "title": "Apple",
+            "title_cleaned": "apple",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/office-productivity/google/",
+            "icon_name": "google",
+            "id": 100,
+            "children": null,
+            "title": "Google",
+            "title_cleaned": "google",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/office-productivity/sap/",
+            "icon_name": "sap",
+            "id": 102,
+            "children": null,
+            "title": "SAP",
+            "title_cleaned": "sap",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/office-productivity/oracle/",
+            "icon_name": "oracle",
+            "id": 106,
+            "children": null,
+            "title": "Oracle",
+            "title_cleaned": "oracle",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/office-productivity/other-productivity/",
+            "icon_name": "line-star",
+            "id": 108,
+            "children": null,
+            "title": "Other Office Productivity",
+            "title_cleaned": "other-productivity",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "office-productivity",
+        "title": "Office Productivity"
+      },
+      {
+        "absolute_url": "/courses/personal-development/",
+        "icon_name": "personal-development",
+        "id": 296,
+        "children": [
+          {
+            "absolute_url": "/courses/personal-development/personal-transformation/",
+            "icon_name": "personal-transformation",
+            "id": 142,
+            "children": null,
+            "title": "Personal Transformation",
+            "title_cleaned": "personal-transformation",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/productivity/",
+            "icon_name": "productivity",
+            "id": 144,
+            "children": null,
+            "title": "Personal Productivity",
+            "title_cleaned": "productivity",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/leadership/",
+            "icon_name": "leadership",
+            "id": 146,
+            "children": null,
+            "title": "Leadership",
+            "title_cleaned": "leadership",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/career-development/",
+            "icon_name": "career-development",
+            "id": 150,
+            "children": null,
+            "title": "Career Development",
+            "title_cleaned": "career-development",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/parenting-and-relationships/",
+            "icon_name": "parenting-and-relationships",
+            "id": 152,
+            "children": null,
+            "title": "Parenting & Relationships",
+            "title_cleaned": "parenting-and-relationships",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/happiness/",
+            "icon_name": "happiness",
+            "id": 156,
+            "children": null,
+            "title": "Happiness",
+            "title_cleaned": "happiness",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/esoteric-practices/",
+            "icon_name": "line-star",
+            "id": 577,
+            "children": null,
+            "title": "Esoteric Practices",
+            "title_cleaned": "esoteric-practices",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/religion-and-spirituality/",
+            "icon_name": "religion-and-spirituality",
+            "id": 158,
+            "children": null,
+            "title": "Religion & Spirituality",
+            "title_cleaned": "religion-and-spirituality",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/personal-brand-building/",
+            "icon_name": "personal-brand-building",
+            "id": 160,
+            "children": null,
+            "title": "Personal Brand Building",
+            "title_cleaned": "personal-brand-building",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/creativity/",
+            "icon_name": "creativity",
+            "id": 164,
+            "children": null,
+            "title": "Creativity",
+            "title_cleaned": "creativity",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/influence/",
+            "icon_name": "influence",
+            "id": 166,
+            "children": null,
+            "title": "Influence",
+            "title_cleaned": "influence",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/self-esteem-and-confidence/",
+            "icon_name": "self-esteem",
+            "id": 168,
+            "children": null,
+            "title": "Self Esteem & Confidence",
+            "title_cleaned": "self-esteem-and-confidence",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/stress-management/",
+            "icon_name": "stress-management",
+            "id": 170,
+            "children": null,
+            "title": "Stress Management",
+            "title_cleaned": "stress-management",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/memory/",
+            "icon_name": "memory",
+            "id": 172,
+            "children": null,
+            "title": "Memory & Study Skills",
+            "title_cleaned": "memory",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/motivation/",
+            "icon_name": "motivation",
+            "id": 176,
+            "children": null,
+            "title": "Motivation",
+            "title_cleaned": "motivation",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/personal-development/other-personal-development/",
+            "icon_name": "line-star",
+            "id": 178,
+            "children": null,
+            "title": "Other Personal Development",
+            "title_cleaned": "other-personal-development",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "personal-development",
+        "title": "Personal Development"
+      },
+      {
+        "absolute_url": "/courses/design/",
+        "icon_name": "design",
+        "id": 269,
+        "children": [
+          {
+            "absolute_url": "/courses/design/web-design/",
+            "icon_name": "web-design",
+            "id": 6,
+            "children": null,
+            "title": "Web Design",
+            "title_cleaned": "web-design",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/graphic-design-and-illustration/",
+            "icon_name": "graphic-design",
+            "id": 110,
+            "children": null,
+            "title": "Graphic Design & Illustration",
+            "title_cleaned": "graphic-design-and-illustration",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/design-tools/",
+            "icon_name": "design-tools",
+            "id": 112,
+            "children": null,
+            "title": "Design Tools",
+            "title_cleaned": "design-tools",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/user-experience/",
+            "icon_name": "user-experience",
+            "id": 114,
+            "children": null,
+            "title": "User Experience Design",
+            "title_cleaned": "user-experience",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/game-design/",
+            "icon_name": "game-design",
+            "id": 116,
+            "children": null,
+            "title": "Game Design",
+            "title_cleaned": "game-design",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/design-thinking/",
+            "icon_name": "design-thinking",
+            "id": 118,
+            "children": null,
+            "title": "Design Thinking",
+            "title_cleaned": "design-thinking",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/3d-and-animation/",
+            "icon_name": "3d-and-animation",
+            "id": 120,
+            "children": null,
+            "title": "3D & Animation",
+            "title_cleaned": "3d-and-animation",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/fashion/",
+            "icon_name": "fashion",
+            "id": 122,
+            "children": null,
+            "title": "Fashion Design",
+            "title_cleaned": "fashion",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/architectural-design/",
+            "icon_name": "architectural-design",
+            "id": 124,
+            "children": null,
+            "title": "Architectural Design",
+            "title_cleaned": "architectural-design",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/interior-design/",
+            "icon_name": "interior-design",
+            "id": 128,
+            "children": null,
+            "title": "Interior Design",
+            "title_cleaned": "interior-design",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/design/other-design/",
+            "icon_name": "line-star",
+            "id": 130,
+            "children": null,
+            "title": "Other Design",
+            "title_cleaned": "other-design",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "design",
+        "title": "Design"
+      },
+      {
+        "absolute_url": "/courses/marketing/",
+        "icon_name": "marketing",
+        "id": 290,
+        "children": [
+          {
+            "absolute_url": "/courses/marketing/digital-marketing/",
+            "icon_name": "digital-marketing",
+            "id": 62,
+            "children": null,
+            "title": "Digital Marketing",
+            "title_cleaned": "digital-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/search-engine-optimization/",
+            "icon_name": "search-engine-optimization",
+            "id": 64,
+            "children": null,
+            "title": "Search Engine Optimization",
+            "title_cleaned": "search-engine-optimization",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/social-media-marketing/",
+            "icon_name": "social-media-marketing",
+            "id": 66,
+            "children": null,
+            "title": "Social Media Marketing",
+            "title_cleaned": "social-media-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/branding/",
+            "icon_name": "branding",
+            "id": 68,
+            "children": null,
+            "title": "Branding",
+            "title_cleaned": "branding",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/marketing-fundamentals/",
+            "icon_name": "marketing-fundamentals",
+            "id": 70,
+            "children": null,
+            "title": "Marketing Fundamentals",
+            "title_cleaned": "marketing-fundamentals",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/analytics-and-automation/",
+            "icon_name": "analytics-and-automation",
+            "id": 72,
+            "children": null,
+            "title": "Marketing Analytics & Automation",
+            "title_cleaned": "analytics-and-automation",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/public-relations/",
+            "icon_name": "public-relations",
+            "id": 74,
+            "children": null,
+            "title": "Public Relations",
+            "title_cleaned": "public-relations",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/advertising/",
+            "icon_name": "advertising",
+            "id": 76,
+            "children": null,
+            "title": "Advertising",
+            "title_cleaned": "advertising",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/video-and-mobile-marketing/",
+            "icon_name": "video-and-mobile-marketing",
+            "id": 78,
+            "children": null,
+            "title": "Video & Mobile Marketing",
+            "title_cleaned": "video-and-mobile-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/content-marketing/",
+            "icon_name": "content-marketing",
+            "id": 80,
+            "children": null,
+            "title": "Content Marketing",
+            "title_cleaned": "content-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/growth-hacking/",
+            "icon_name": "growth-hacking",
+            "id": 86,
+            "children": null,
+            "title": "Growth Hacking",
+            "title_cleaned": "growth-hacking",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/affiliate-marketing/",
+            "icon_name": "affiliate-marketing",
+            "id": 88,
+            "children": null,
+            "title": "Affiliate Marketing",
+            "title_cleaned": "affiliate-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/product-marketing/",
+            "icon_name": "product-marketing",
+            "id": 90,
+            "children": null,
+            "title": "Product Marketing",
+            "title_cleaned": "product-marketing",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/marketing/other-marketing/",
+            "icon_name": "line-star",
+            "id": 94,
+            "children": null,
+            "title": "Other Marketing",
+            "title_cleaned": "other-marketing",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "marketing",
+        "title": "Marketing"
+      },
+      {
+        "absolute_url": "/courses/lifestyle/",
+        "icon_name": "lifestyle",
+        "id": 274,
+        "children": [
+          {
+            "absolute_url": "/courses/lifestyle/arts-and-crafts/",
+            "icon_name": "arts-and-crafts",
+            "id": 180,
+            "children": null,
+            "title": "Arts & Crafts",
+            "title_cleaned": "arts-and-crafts",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/beauty-and-makeup/",
+            "icon_name": "beauty-and-makeup",
+            "id": 184,
+            "children": null,
+            "title": "Beauty & Makeup",
+            "title_cleaned": "beauty-and-makeup",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/esoteric-practices/",
+            "icon_name": "line-star",
+            "id": 577,
+            "children": null,
+            "title": "Esoteric Practices",
+            "title_cleaned": "esoteric-practices",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/food-and-beverage/",
+            "icon_name": "food-and-beverage",
+            "id": 182,
+            "children": null,
+            "title": "Food & Beverage",
+            "title_cleaned": "food-and-beverage",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/gaming/",
+            "icon_name": "gaming",
+            "id": 188,
+            "children": null,
+            "title": "Gaming",
+            "title_cleaned": "gaming",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/home-improvement/",
+            "icon_name": "home-improvement",
+            "id": 190,
+            "children": null,
+            "title": "Home Improvement",
+            "title_cleaned": "home-improvement",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/pet-care-and-training/",
+            "icon_name": "pet-care-and-training",
+            "id": 192,
+            "children": null,
+            "title": "Pet Care & Training",
+            "title_cleaned": "pet-care-and-training",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/travel/",
+            "icon_name": "travel",
+            "id": 186,
+            "children": null,
+            "title": "Travel",
+            "title_cleaned": "travel",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/lifestyle/other-lifestyle/",
+            "icon_name": "line-star",
+            "id": 194,
+            "children": null,
+            "title": "Other Lifestyle",
+            "title_cleaned": "other-lifestyle",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "lifestyle",
+        "title": "Lifestyle"
+      },
+      {
+        "absolute_url": "/courses/photography-and-video/",
+        "icon_name": "photography",
+        "id": 273,
+        "children": [
+          {
+            "absolute_url": "/courses/photography-and-video/digital-photography/",
+            "icon_name": "digital-photography",
+            "id": 370,
+            "children": null,
+            "title": "Digital Photography",
+            "title_cleaned": "digital-photography",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/photography-fundamentals/",
+            "icon_name": "photography-fundamentals",
+            "id": 196,
+            "children": null,
+            "title": "Photography",
+            "title_cleaned": "photography-fundamentals",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/portraits/",
+            "icon_name": "portraits",
+            "id": 204,
+            "children": null,
+            "title": "Portrait Photography",
+            "title_cleaned": "portraits",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/photography-tools/",
+            "icon_name": "photography-tools",
+            "id": 198,
+            "children": null,
+            "title": "Photography Tools",
+            "title_cleaned": "photography-tools",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/commercial-photography/",
+            "icon_name": "commercial-photography",
+            "id": 208,
+            "children": null,
+            "title": "Commercial Photography",
+            "title_cleaned": "commercial-photography",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/video-design/",
+            "icon_name": "video-design",
+            "id": 218,
+            "children": null,
+            "title": "Video Design",
+            "title_cleaned": "video-design",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/photography-and-video/other-photography-and-video/",
+            "icon_name": "line-star",
+            "id": 220,
+            "children": null,
+            "title": "Other Photography & Video",
+            "title_cleaned": "other-photography-and-video",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "photography-and-video",
+        "title": "Photography & Video"
+      },
+      {
+        "absolute_url": "/courses/health-and-fitness/",
+        "icon_name": "health-and-fitness",
+        "id": 276,
+        "children": [
+          {
+            "absolute_url": "/courses/health-and-fitness/fitness/",
+            "icon_name": "fitness",
+            "id": 222,
+            "children": null,
+            "title": "Fitness",
+            "title_cleaned": "fitness",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/general-health/",
+            "icon_name": "general-health",
+            "id": 224,
+            "children": null,
+            "title": "General Health",
+            "title_cleaned": "general-health",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/sports/",
+            "icon_name": "sports",
+            "id": 226,
+            "children": null,
+            "title": "Sports",
+            "title_cleaned": "sports",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/nutrition/",
+            "icon_name": "nutrition",
+            "id": 228,
+            "children": null,
+            "title": "Nutrition",
+            "title_cleaned": "nutrition",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/yoga/",
+            "icon_name": "yoga",
+            "id": 230,
+            "children": null,
+            "title": "Yoga",
+            "title_cleaned": "yoga",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/mental-health/",
+            "icon_name": "mental-health",
+            "id": 232,
+            "children": null,
+            "title": "Mental Health",
+            "title_cleaned": "mental-health",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/dieting/",
+            "icon_name": "dieting",
+            "id": 234,
+            "children": null,
+            "title": "Dieting",
+            "title_cleaned": "dieting",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/self-defense/",
+            "icon_name": "self-defense",
+            "id": 236,
+            "children": null,
+            "title": "Self Defense",
+            "title_cleaned": "self-defense",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/safety-and-first-aid/",
+            "icon_name": "safety-and-first-aid",
+            "id": 238,
+            "children": null,
+            "title": "Safety & First Aid",
+            "title_cleaned": "safety-and-first-aid",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/dance/",
+            "icon_name": "dance",
+            "id": 240,
+            "children": null,
+            "title": "Dance",
+            "title_cleaned": "dance",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/meditation/",
+            "icon_name": "meditation",
+            "id": 242,
+            "children": null,
+            "title": "Meditation",
+            "title_cleaned": "meditation",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/health-and-fitness/other-health-and-fitness/",
+            "icon_name": "line-star",
+            "id": 244,
+            "children": null,
+            "title": "Other Health & Fitness",
+            "title_cleaned": "other-health-and-fitness",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "health-and-fitness",
+        "title": "Health & Fitness"
+      },
+      {
+        "absolute_url": "/courses/music/",
+        "icon_name": "music",
+        "id": 278,
+        "children": [
+          {
+            "absolute_url": "/courses/music/instruments/",
+            "icon_name": "instruments",
+            "id": 296,
+            "children": null,
+            "title": "Instruments",
+            "title_cleaned": "instruments",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/production/",
+            "icon_name": "production",
+            "id": 298,
+            "children": null,
+            "title": "Music Production",
+            "title_cleaned": "production",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/music-fundamentals/",
+            "icon_name": "music-fundamentals",
+            "id": 300,
+            "children": null,
+            "title": "Music Fundamentals",
+            "title_cleaned": "music-fundamentals",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/vocal/",
+            "icon_name": "vocal",
+            "id": 302,
+            "children": null,
+            "title": "Vocal",
+            "title_cleaned": "vocal",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/music-techniques/",
+            "icon_name": "music-techniques",
+            "id": 304,
+            "children": null,
+            "title": "Music Techniques",
+            "title_cleaned": "music-techniques",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/music-software/",
+            "icon_name": "music-software",
+            "id": 306,
+            "children": null,
+            "title": "Music Software",
+            "title_cleaned": "music-software",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/music/other-music/",
+            "icon_name": "line-star",
+            "id": 308,
+            "children": null,
+            "title": "Other Music",
+            "title_cleaned": "other-music",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "music",
+        "title": "Music"
+      },
+      {
+        "absolute_url": "/courses/teaching-and-academics/",
+        "icon_name": "academics",
+        "id": 300,
+        "children": [
+          {
+            "absolute_url": "/courses/teaching-and-academics/engineering/",
+            "icon_name": "development-tools",
+            "id": 366,
+            "children": null,
+            "title": "Engineering",
+            "title_cleaned": "engineering",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/humanities/",
+            "icon_name": "humanities",
+            "id": 380,
+            "children": null,
+            "title": "Humanities",
+            "title_cleaned": "humanities",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/math/",
+            "icon_name": "educational-development",
+            "id": 310,
+            "children": null,
+            "title": "Math",
+            "title_cleaned": "math",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/science/",
+            "icon_name": "math-and-science",
+            "id": 312,
+            "children": null,
+            "title": "Science",
+            "title_cleaned": "science",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/online-education/",
+            "icon_name": "instructional-design",
+            "id": 523,
+            "children": null,
+            "title": "Online Education",
+            "title_cleaned": "online-education",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/social-science/",
+            "icon_name": "social-science",
+            "id": 376,
+            "children": null,
+            "title": "Social Science",
+            "title_cleaned": "social-science",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/language/",
+            "icon_name": "language",
+            "id": 521,
+            "children": null,
+            "title": "Language",
+            "title_cleaned": "language",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/teacher-training/",
+            "icon_name": "teacher-training",
+            "id": 527,
+            "children": null,
+            "title": "Teacher Training",
+            "title_cleaned": "teacher-training",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/test-prep/",
+            "icon_name": "test-prep",
+            "id": 529,
+            "children": null,
+            "title": "Test Prep",
+            "title_cleaned": "test-prep",
+            "type": "subcategory"
+          },
+          {
+            "absolute_url": "/courses/teaching-and-academics/other-teaching-academics/",
+            "icon_name": "academics",
+            "id": 525,
+            "children": null,
+            "title": "Other Teaching & Academics",
+            "title_cleaned": "other-teaching-academics",
+            "type": "subcategory"
+          }
+        ],
+        "type": "category",
+        "title_cleaned": "teaching-and-academics",
+        "title": "Teaching & Academics"
+      }
+    ],
+    "popular_subcategory_topics": {
+      "8": [
+        {
+          "absolute_url": "/topic/web-development/",
+          "title": "Web Development",
+          "id": 8322
+        },
+        {
+          "absolute_url": "/topic/javascript/",
+          "title": "JavaScript",
+          "id": 6368
+        },
+        {
+          "absolute_url": "/topic/react/",
+          "title": "React",
+          "id": 7450
+        },
+        {
+          "absolute_url": "/topic/css/",
+          "title": "CSS",
+          "id": 5306
+        },
+        {
+          "absolute_url": "/topic/angular/",
+          "title": "Angular",
+          "id": 28016
+        },
+        {
+          "absolute_url": "/topic/php/",
+          "title": "PHP",
+          "id": 7176
+        },
+        {
+          "absolute_url": "/topic/nodejs/",
+          "title": "Node.Js",
+          "id": 6928
+        },
+        {
+          "absolute_url": "/topic/wordpress/",
+          "title": "WordPress",
+          "id": 8452
+        },
+        {
+          "absolute_url": "/topic/vue-js/",
+          "title": "Vue JS",
+          "id": 4308
+        }
+      ],
+      "10": [
+        {
+          "absolute_url": "/topic/google-flutter/",
+          "title": "Google Flutter",
+          "id": 52458
+        },
+        {
+          "absolute_url": "/topic/android-development/",
+          "title": "Android Development",
+          "id": 4470
+        },
+        {
+          "absolute_url": "/topic/ios-development/",
+          "title": "iOS Development",
+          "id": 6292
+        },
+        {
+          "absolute_url": "/topic/react-native/",
+          "title": "React Native",
+          "id": 9884
+        },
+        {
+          "absolute_url": "/topic/swift/",
+          "title": "Swift",
+          "id": 7956
+        },
+        {
+          "absolute_url": "/topic/dart-programming-language/",
+          "title": "Dart (programming language)",
+          "id": 37860
+        },
+        {
+          "absolute_url": "/topic/mobile-development/",
+          "title": "Mobile Development",
+          "id": 5402
+        },
+        {
+          "absolute_url": "/topic/kotlin/",
+          "title": "Kotlin",
+          "id": 13554
+        },
+        {
+          "absolute_url": "/topic/swiftui/",
+          "title": "SwiftUI",
+          "id": 131074
+        }
+      ],
+      "14": [
+        {
+          "absolute_url": "/topic/unity/",
+          "title": "Unity",
+          "id": 8154
+        },
+        {
+          "absolute_url": "/topic/game-development/",
+          "title": "Game Development Fundamentals",
+          "id": 5904
+        },
+        {
+          "absolute_url": "/topic/unreal-engine/",
+          "title": "Unreal Engine",
+          "id": 8166
+        },
+        {
+          "absolute_url": "/topic/c-sharp/",
+          "title": "C#",
+          "id": 4904
+        },
+        {
+          "absolute_url": "/topic/3d-game-development/",
+          "title": "3D Game Development",
+          "id": 4280
+        },
+        {
+          "absolute_url": "/topic/c-plus-plus/",
+          "title": "C++",
+          "id": 4908
+        },
+        {
+          "absolute_url": "/topic/2d-game-development/",
+          "title": "2D Game Development",
+          "id": 25642
+        },
+        {
+          "absolute_url": "/topic/unreal-engine-blueprints/",
+          "title": "Unreal Engine Blueprints",
+          "id": 109866
+        },
+        {
+          "absolute_url": "/topic/blender/",
+          "title": "Blender",
+          "id": 4790
+        }
+      ],
+      "24": [],
+      "26": [
+        {
+          "absolute_url": "/topic/business-fundamentals/",
+          "title": "Business Fundamentals",
+          "id": 4882
+        },
+        {
+          "absolute_url": "/topic/entrepreneurship/",
+          "title": "Entrepreneurship Fundamentals",
+          "id": 5654
+        },
+        {
+          "absolute_url": "/topic/business-strategy/",
+          "title": "Business Strategy",
+          "id": 4898
+        },
+        {
+          "absolute_url": "/topic/business-plan/",
+          "title": "Business Plan",
+          "id": 4894
+        },
+        {
+          "absolute_url": "/topic/startup/",
+          "title": "Startup",
+          "id": 7888
+        },
+        {
+          "absolute_url": "/topic/freelancing/",
+          "title": "Freelancing",
+          "id": 5874
+        },
+        {
+          "absolute_url": "/topic/online-business/",
+          "title": "Online Business",
+          "id": 6992
+        },
+        {
+          "absolute_url": "/topic/blogging/",
+          "title": "Blogging",
+          "id": 4796
+        },
+        {
+          "absolute_url": "/topic/home-business/",
+          "title": "Home Business",
+          "id": 6114
+        }
+      ],
+      "44": [
+        {
+          "absolute_url": "/topic/microsoft-power-bi/",
+          "title": "Microsoft Power BI",
+          "id": 6740
+        },
+        {
+          "absolute_url": "/topic/sql/",
+          "title": "SQL",
+          "id": 7862
+        },
+        {
+          "absolute_url": "/topic/tableau/",
+          "title": "Tableau",
+          "id": 7978
+        },
+        {
+          "absolute_url": "/topic/business-analysis/",
+          "title": "Business Analysis",
+          "id": 9000
+        },
+        {
+          "absolute_url": "/topic/data-modeling/",
+          "title": "Data Modeling",
+          "id": 5334
+        },
+        {
+          "absolute_url": "/topic/business-intelligence/",
+          "title": "Business Intelligence",
+          "id": 4886
+        },
+        {
+          "absolute_url": "/topic/mysql/",
+          "title": "MySQL",
+          "id": 6866
+        },
+        {
+          "absolute_url": "/topic/data-analysis/",
+          "title": "Data Analysis",
+          "id": 5328
+        },
+        {
+          "absolute_url": "/topic/blockchain/",
+          "title": "Blockchain",
+          "id": 4792
+        }
+      ],
+      "62": [
+        {
+          "absolute_url": "/topic/digital-marketing/",
+          "title": "Digital Marketing",
+          "id": 5430
+        },
+        {
+          "absolute_url": "/topic/google-ads/",
+          "title": "Google Ads (Adwords)",
+          "id": 73900
+        },
+        {
+          "absolute_url": "/topic/social-media-marketing/",
+          "title": "Social Media Marketing",
+          "id": 7788
+        },
+        {
+          "absolute_url": "/topic/google-ads-certification/",
+          "title": "Google Ads (AdWords) Certification",
+          "id": 9838
+        },
+        {
+          "absolute_url": "/topic/marketing-strategy/",
+          "title": "Marketing Strategy",
+          "id": 6630
+        },
+        {
+          "absolute_url": "/topic/internet-marketing/",
+          "title": "Internet Marketing",
+          "id": 6994
+        },
+        {
+          "absolute_url": "/topic/youtube-marketing/",
+          "title": "YouTube Marketing",
+          "id": 8522
+        },
+        {
+          "absolute_url": "/topic/email-marketing/",
+          "title": "Email Marketing",
+          "id": 5586
+        },
+        {
+          "absolute_url": "/topic/retargeting/",
+          "title": "Retargeting",
+          "id": 7516
+        }
+      ],
+      "110": [
+        {
+          "absolute_url": "/topic/graphic-design/",
+          "title": "Graphic Design",
+          "id": 6020
+        },
+        {
+          "absolute_url": "/topic/photoshop/",
+          "title": "Photoshop",
+          "id": 4402
+        },
+        {
+          "absolute_url": "/topic/adobe-illustrator/",
+          "title": "Adobe Illustrator",
+          "id": 4394
+        },
+        {
+          "absolute_url": "/topic/drawing/",
+          "title": "Drawing",
+          "id": 5494
+        },
+        {
+          "absolute_url": "/topic/digital-painting/",
+          "title": "Digital Painting",
+          "id": 5434
+        },
+        {
+          "absolute_url": "/topic/indesign/",
+          "title": "InDesign",
+          "id": 4396
+        },
+        {
+          "absolute_url": "/topic/character-design/",
+          "title": "Character Design",
+          "id": 5002
+        },
+        {
+          "absolute_url": "/topic/canva/",
+          "title": "Canva",
+          "id": 8592
+        },
+        {
+          "absolute_url": "/topic/figure-drawing/",
+          "title": "Figure Drawing",
+          "id": 10470
+        }
+      ],
+      "132": [
+        {
+          "absolute_url": "/topic/aws-certification/",
+          "title": "AWS Certification",
+          "id": 4704
+        },
+        {
+          "absolute_url": "/topic/microsoft-certification/",
+          "title": "Microsoft Certification",
+          "id": 6720
+        },
+        {
+          "absolute_url": "/topic/aws-certified-solutions-architect-associate/",
+          "title": "AWS Certified Solutions Architect - Associate",
+          "id": 24774
+        },
+        {
+          "absolute_url": "/topic/aws-certified-cloud-practitioner/",
+          "title": "AWS Certified Cloud Practitioner",
+          "id": 46868
+        },
+        {
+          "absolute_url": "/topic/comptia-a/",
+          "title": "CompTIA A+",
+          "id": 5166
+        },
+        {
+          "absolute_url": "/topic/cisco-ccna/",
+          "title": "Cisco CCNA",
+          "id": 5044
+        },
+        {
+          "absolute_url": "/topic/comptia-security/",
+          "title": "CompTIA Security+",
+          "id": 5176
+        },
+        {
+          "absolute_url": "/topic/amazon-aws/",
+          "title": "Amazon AWS",
+          "id": 4452
+        },
+        {
+          "absolute_url": "/topic/microsoft-az-900/",
+          "title": "Microsoft AZ-900",
+          "id": 118634
+        }
+      ],
+      "142": [
+        {
+          "absolute_url": "/topic/life-coaching/",
+          "title": "Life Coach Training",
+          "id": 10684
+        },
+        {
+          "absolute_url": "/topic/neuro-linguistic-programming/",
+          "title": "Neuro-Linguistic Programming",
+          "id": 6910
+        },
+        {
+          "absolute_url": "/topic/personal-development/",
+          "title": "Personal Development",
+          "id": 7138
+        },
+        {
+          "absolute_url": "/topic/personal-transformation/",
+          "title": "Personal Transformation",
+          "id": 15374
+        },
+        {
+          "absolute_url": "/topic/mindfulness/",
+          "title": "Mindfulness",
+          "id": 6770
+        },
+        {
+          "absolute_url": "/topic/life-purpose/",
+          "title": "Life Purpose",
+          "id": 6520
+        },
+        {
+          "absolute_url": "/topic/meditation/",
+          "title": "Meditation",
+          "id": 6680
+        },
+        {
+          "absolute_url": "/topic/cbt/",
+          "title": "CBT",
+          "id": 5124
+        },
+        {
+          "absolute_url": "/topic/emotional-intelligence/",
+          "title": "Emotional Intelligence",
+          "id": 5604
+        }
+      ]
+    }
+  },
+  "GoogleAnalytics": {},
+  "safelySetInnerHTMLStats": {
+    "numCallsPerCaller": {
+      "error-display:system-check-link": 1,
+      "error-display:support-link": 1,
+      "announcement:content": 10
+    },
+    "cumulativeTimePerCallerInMS": {
+      "error-display:system-check-link": 1,
+      "error-display:support-link": 1,
+      "announcement:content": 42
+    }
+  },
+  "tracking": {
+    "eventInfoStore": {
+      "eventInfosById": {
+        "QJkBTXjDR3GSXysxqXEFRA": {
+          "event": {
+            "_type": "ClientLoadEvent",
+            "createTime": 1619404060801,
+            "sendTime": 1619404061072,
+            "eventId": "QJkBTXjDR3GSXysxqXEFRA",
+            "clientHeader": {
+              "appKey": "web_main",
+              "organizationId": null,
+              "userId": 45951812,
+              "visitorUuid": "3f90757c055347c3835e4cdffc47ae0e",
+              "sessionId": "y4e9X0lDR8WQl9S_Ca51Rg",
+              "clientId": "r8m_IDKTQkCX9_R2RzDsrA",
+              "page": {
+                "trackingId": "sXZukY3HT2SxnTuDaKOLaQ",
+                "key": "course_taking_curriculum_item"
+              },
+              "isMobile": false
+            },
+            "appVersion": "9ca7c2d",
+            "appLanguage": "en_US",
+            "url": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/lecture/6128236#announcements",
+            "referrer": "https://www.udemy.com/",
+            "timezoneOffset": -5,
+            "screen": {
+              "width": 1440,
+              "height": 900
+            },
+            "viewport": {
+              "width": 1420,
+              "height": 742
+            },
+            "userConsentCategories": "BG1,C0001,C0002,C0003,C0004,C0005"
+          },
+          "status": 1,
+          "failureReason": null
+        },
+        "gEKlbK5LRIGYm3UG-3bVCQ": {
+          "event": {
+            "_type": "PageViewEvent",
+            "createTime": 1619404060707,
+            "sendTime": 1619404061072,
+            "eventId": "gEKlbK5LRIGYm3UG-3bVCQ",
+            "isRouteChange": false,
+            "clientHeader": {
+              "appKey": "web_main",
+              "organizationId": null,
+              "userId": 45951812,
+              "visitorUuid": "3f90757c055347c3835e4cdffc47ae0e",
+              "sessionId": "y4e9X0lDR8WQl9S_Ca51Rg",
+              "clientId": "r8m_IDKTQkCX9_R2RzDsrA",
+              "page": {
+                "trackingId": "sXZukY3HT2SxnTuDaKOLaQ",
+                "key": "course_taking_curriculum_item"
+              },
+              "isMobile": false
+            },
+            "url": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/lecture/6128236#announcements"
+          },
+          "status": 1,
+          "failureReason": null
+        },
+        "WwGLtWbRTumPDREj3AYmxA": {
+          "event": {
+            "_type": "CourseTakingVideoViewEvent",
+            "createTime": 1619404061206,
+            "sendTime": 1619404063814,
+            "eventId": "WwGLtWbRTumPDREj3AYmxA",
+            "courseTakingHeader": {
+              "courseId": 857010,
+              "userMode": "student"
+            },
+            "resource": "lecture video-view",
+            "curriculum": {
+              "curriculumType": "lecture",
+              "curriculumId": 6128236
+            },
+            "clientHeader": {
+              "appKey": "web_main",
+              "organizationId": null,
+              "userId": 45951812,
+              "visitorUuid": "3f90757c055347c3835e4cdffc47ae0e",
+              "sessionId": "y4e9X0lDR8WQl9S_Ca51Rg",
+              "clientId": "r8m_IDKTQkCX9_R2RzDsrA",
+              "page": {
+                "trackingId": "sXZukY3HT2SxnTuDaKOLaQ",
+                "key": "course_taking_curriculum_item"
+              },
+              "isMobile": false
+            }
+          },
+          "status": 1,
+          "failureReason": null
+        }
+      }
+    }
+  }
+}
