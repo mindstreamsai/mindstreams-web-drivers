@@ -1,2 +1,4 @@
 # mindstreams-web-drivers
-Project to track the web drivers for Mindstreams for various sites and pages
+
+This is a project to track the web drivers for Mindstreams for various sites and pages. It currently has some Javascript for Udemy.com. More coming here.
+
